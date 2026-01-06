@@ -1,19 +1,19 @@
 Battleship Game (Python)
-
 A terminal-based implementation of the classic Battleship game written in Python.
 The game supports Player vs AI and local multiplayer, with multiple difficulty levels and extended gameplay features.
 
 Features
-20×20 grid-based game board
-Player vs AI or local multiplayer mode
-AI difficulty levels: Easy, Medium, Hard
-Random ship placement with no overlap
-Hit and miss detection
-Score tracking (shown after every turn and at game end)
-Special missile (one per player)
-Undo feature (one undo per player per game)
-Game timer (8-minute limit)
-Colour-coded terminal UI
+•	20×20 grid-based game board
+•	Player vs AI or local multiplayer mode
+•	AI difficulty levels: Easy, Medium, Hard
+•	Random ship placement with no overlap
+•	Hit and miss detection
+•	Score tracking (shown after every turn and at game end)
+•	Special missile (one per player)
+•	Undo feature (one undo per player per game)
+•	Game timer (8-minute limit)
+•	Colour-coded terminal UI
+
 
 How to Run
 Locally
